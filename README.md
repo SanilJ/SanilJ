@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanil (@SanilJ)
-- 👀 I’m interested in building Products
+- 👀 I’m interested in building things
 - 🌱 I’m currently learning C++ & Go
 
 <!---
