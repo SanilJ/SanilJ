@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanil (@SanilJ)
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning Backend Programming (C++,Go)
+- 🌱 I’m currently learning Backend Programming (C++,Go, Elixir)
 
 <br>
 
